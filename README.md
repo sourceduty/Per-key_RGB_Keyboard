@@ -11,8 +11,6 @@ A software application controls each LED backlight for every mechanical key on a
 
 Game developers can use this application to guide players with per-key instructions for spelling in-game words and short sentences. Additionally, educational typing software can employ this application to provide per-key instructions, assisting users in learning simple spelling.
 
-Some of the software utilities that could integrate this open-source application include Corsair iCUE, OpenRGB, Project Aurora, and SignalRGB.
-
 #
 ### Gaming Mode
 
