@@ -14,7 +14,7 @@ Game developers can use this application to guide players with per-key instructi
 Some of the software utilities that could integrate this open-source application include Corsair iCUE, OpenRGB, Project Aurora, and SignalRGB.
 
 #
-### Gaming Mode (Active)
+### Gaming Mode
 
 Adding a gaming mode for WASD keys would enhance the application by allowing users to highlight these specific keys, often used for movement in games. This mode would illuminate the WASD keys, making them stand out during gameplay and providing a more immersive and intuitive experience for gamers.
 
