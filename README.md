@@ -28,5 +28,9 @@ Furthermore, a robust communication interface between the keyboard and the compu
 
 One of the primary concerns is the increased cost associated with RGB mechanical keyboards, which are typically more expensive than standard keyboards. The additional hardware, such as the microcontroller and individually addressable LEDs, contributes to this higher price point. Furthermore, the complexity of the software and hardware integration can lead to compatibility issues with certain systems or applications. Users may encounter difficulties in setting up and configuring the software to work seamlessly with their keyboard, potentially requiring technical expertise. Additionally, the constant illumination of keys can be distracting for some users and may lead to increased power consumption, which is a consideration for those using battery-operated devices.
 
+#
+
+> Alex: *"I don't care if someone does or doesn't engineer this idea into a retail product. I would use illuminated individual WASD keys but not the instructional keys."*
+
 ***
 ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
