@@ -23,7 +23,8 @@ The hardware required for implementing a per-key RGB keyboard controller involve
 
 Furthermore, a robust communication interface between the keyboard and the computer is required to ensure seamless data transfer. This typically involves a USB interface that supports high-speed data communication, allowing real-time updates to the key lighting. Alongside the hardware, compatible software utilities like Corsair iCUE, OpenRGB, Project Aurora, and SignalRGB are essential for customizing and controlling the lighting effects. These utilities provide the necessary drivers and user interfaces to program the lighting sequences, ensuring the per-key RGB functionality operates smoothly and efficiently.
 
-Drawbacks
+#
+### Drawbacks
 
 One of the primary concerns is the increased cost associated with RGB mechanical keyboards, which are typically more expensive than standard keyboards. The additional hardware, such as the microcontroller and individually addressable LEDs, contributes to this higher price point. Furthermore, the complexity of the software and hardware integration can lead to compatibility issues with certain systems or applications. Users may encounter difficulties in setting up and configuring the software to work seamlessly with their keyboard, potentially requiring technical expertise. Additionally, the constant illumination of keys can be distracting for some users and may lead to increased power consumption, which is a consideration for those using battery-operated devices.
 
