@@ -1,6 +1,6 @@
 ![per-key](https://github.com/sourceduty/Per-key_RGB_Keyboard/assets/123030236/58593499-99b0-485a-b271-c84cf7f056a9)
 
-> Software concept for controlling every individual LED backlight for each mechanical key on an RGB keyboard.
+> Software and hardware concept for controlling every individual LED backlight for each mechanical key on an RGB keyboard.
 
 #
 
