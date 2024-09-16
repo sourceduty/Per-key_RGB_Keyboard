@@ -30,11 +30,18 @@ One of the primary concerns is the increased cost associated with RGB mechanical
 
 #
 
-![Keyboard Robot](https://github.com/user-attachments/assets/767831ff-afd3-4378-81d3-8fb594b642bb)
+> Alex: *"I don't care if someone does or doesn't engineer this idea into a retail product. I would use illuminated individual WASD keys but not the instructional keys."*
 
 #
 
-> Alex: *"I don't care if someone does or doesn't engineer this idea into a retail product. I would use illuminated individual WASD keys but not the instructional keys."*
+![Keyboard Robot](https://github.com/user-attachments/assets/767831ff-afd3-4378-81d3-8fb594b642bb)
+
+#
+### Related Links
+
+[Input Automation](https://github.com/sourceduty/Input_Automation)
+<br>
+[Keybind Instructions](https://github.com/sourceduty/Keybind_Instructions)
 
 ***
 ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
