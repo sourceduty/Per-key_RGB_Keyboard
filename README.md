@@ -1,8 +1,8 @@
-# Per-key_RGB_Keyboard
-
-⌨️ Software concept for controlling every individual LED backlight for each mechanical key on an RGB keyboard.
-
 ![per-key](https://github.com/sourceduty/Per-key_RGB_Keyboard/assets/123030236/58593499-99b0-485a-b271-c84cf7f056a9)
+
+> Software concept for controlling every individual LED backlight for each mechanical key on an RGB keyboard.
+
+#
 
 A software application controls each LED backlight for every mechanical key on an RGB computer keyboard. This open-source application can illuminate individual keys to indicate the order in which the user needs to press each key.
 
@@ -27,6 +27,10 @@ Furthermore, a robust communication interface between the keyboard and the compu
 ### Drawbacks
 
 One of the primary concerns is the increased cost associated with RGB mechanical keyboards, which are typically more expensive than standard keyboards. The additional hardware, such as the microcontroller and individually addressable LEDs, contributes to this higher price point. Furthermore, the complexity of the software and hardware integration can lead to compatibility issues with certain systems or applications. Users may encounter difficulties in setting up and configuring the software to work seamlessly with their keyboard, potentially requiring technical expertise. Additionally, the constant illumination of keys can be distracting for some users and may lead to increased power consumption, which is a consideration for those using battery-operated devices.
+
+#
+
+![Keyboard Robot](https://github.com/user-attachments/assets/767831ff-afd3-4378-81d3-8fb594b642bb)
 
 #
 
